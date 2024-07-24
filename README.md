@@ -1,8 +1,8 @@
 <h4 align="left">
-  Middle C# Разработчик. Люблю грамотные ТЗ и решать интересные задачи.
+  Middle C# Dev. I like to solve interesting tasks.
 </h4>
 
-<h3 align="left">Знаком, люблю и использую:</h3>
+<h3 align="left">I know and use:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
