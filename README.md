@@ -22,5 +22,4 @@
     <img height="150" src="https://giffun.ru/wp-content/uploads/2023/11/log.gif" alt="Coding gif" />
   </div>
   </div>
-  <hr>
 </div>
