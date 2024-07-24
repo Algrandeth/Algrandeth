@@ -38,8 +38,6 @@
 
 <hr>
 
-<hr>
-
 <h3 align="left">Связь со мной:</h3>
 
   <a href="https://t.me/algrandeth" target="_blank">
