@@ -1,7 +1,7 @@
 <h4 align="left">
   Middle C# Dev with some DevOps skills. I like to solve interesting tasks.
 </h4>
-
+<hr>
 <h3 align="left">I know and use:</h3>
 
 <div align="left">
