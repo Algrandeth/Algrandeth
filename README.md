@@ -1,16 +1,25 @@
-<h2 align="left"></h2>
+<br clear="both">
+
+<h4 align="left">Привет, я Grand. <br><br>Я Middle C# Разработчик. Люблю грамотные ТЗ и решать интересные задачи.</h4>
 
 ###
 
-<p align="left">Middle C# Разработчик. Люблю грамотные тз и решать интересные задачи.</p>
+<p align="left">В 2021 начал изучать программирование.<br><br>В 2022 в составе команды разрабатывал решал задачи, разрабатывал микросервисы и интеграции.<br><br>В 2023 перерос компанию и ушел на фриланс. <br>С самостоятельным полным циклом разработки от кода до рабочего сервиса на сервере получил навыки DevOps.<br><br>В данный момент делаю телеграм-ботов для клиентов:<br><br>Техзадание > проектирование базы данных > разработка > деплой & поддержка.</p>
 
 ###
 
-<h3 align="left">Обо мне:</h3>
+<h3 align="left">Связь со мной:</h3>
 
 ###
 
-<p align="left">Начал программировать в 2021.<br><br>В 2023 перерос свою компанию и ушел работать на фриланс. Создаю телеграм-ботов. <br><br>Люблю изучать новое и копаться в старом.<br><br>В данный момент изучаю typescript.</p>
+<div align="left">
+  <a href="https://t.me/algrandeth" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/279904645760155649" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -18,20 +27,24 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
 ###
