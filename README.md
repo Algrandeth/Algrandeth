@@ -24,15 +24,6 @@
 
 <hr>
 
-<h3 align="left">Связь со мной:</h3>
-
-  <a href="https://t.me/algrandeth" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo" />
-  </a>
-</div>
-
-<hr>
-
 <div align="center">
   <img height="150" src="https://giffun.ru/wp-content/uploads/2023/11/log.gif" alt="Coding gif" />
 </div>
