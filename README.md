@@ -1,5 +1,5 @@
 <h4 align="left">
-  Middle C# Dev. I like to solve interesting tasks.
+  Middle C# Dev with some DevOps skills. I like to solve interesting tasks.
 </h4>
 
 <h3 align="left">I know and use:</h3>
