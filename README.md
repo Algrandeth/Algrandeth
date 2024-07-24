@@ -18,6 +18,7 @@
     <img width="15" />
     <img src="https://cdn.worldvectorlogo.com/logos/portainer.svg" height="35" alt="portainer logo" />
   </div>
+  <hr>
   <div style="margin-left: 20px;">
     <img height="150" src="https://giffun.ru/wp-content/uploads/2023/11/log.gif" alt="Coding gif" />
   </div>
