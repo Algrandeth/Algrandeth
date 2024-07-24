@@ -48,5 +48,5 @@
 <hr>
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif" alt="Coding gif" />
+  <img height="150" src="https://giffun.ru/wp-content/uploads/2023/11/log.gif" alt="Coding gif" />
 </div>
