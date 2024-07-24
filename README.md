@@ -14,16 +14,7 @@
   Техзадание > проектирование базы данных > разработка > деплой & поддержка.
 </p>
 
-<hr>
 
-<h3 align="left">Связь со мной:</h3>
-
-  <a href="https://t.me/algrandeth" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo" />
-  </a>
-</div>
-
-<hr>
 
 <h3 align="left">Знаком, люблю и использую:</h3>
 
@@ -43,6 +34,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo" />
   <img width="15" />
   <img src="https://cdn.worldvectorlogo.com/logos/portainer.svg" height="35" alt="portainer logo" />
+</div>
+
+<hr>
+
+<hr>
+
+<h3 align="left">Связь со мной:</h3>
+
+  <a href="https://t.me/algrandeth" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo" />
+  </a>
 </div>
 
 <hr>
