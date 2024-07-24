@@ -31,8 +31,6 @@
 
 <h3 align="left">Знаком, люблю и использую:</h3>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif" alt="Coding gif" />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
   <img width="15" />
@@ -50,3 +48,7 @@
 </div>
 
 <hr>
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif" alt="Coding gif" />
+</div>
