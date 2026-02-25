@@ -1,5 +1,3 @@
-<h3 align="left">I know and use:</h3>
-
 <div style="display: flex; align-items: center;">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
